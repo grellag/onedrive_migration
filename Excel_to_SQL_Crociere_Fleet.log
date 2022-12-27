@@ -1,0 +1,14 @@
+
+15-Mar-22 17:25:57 - Connecting to Server: 10.63.244.157, Database: CROCIERE
+15-Mar-22 17:25:57 - Searching for file: MasterCruiseCalendar.xlsx in path: \\10.63.244.160\sambasrv\cruises
+15-Mar-22 17:25:57 - Found file: MasterCruiseCalendar.xlsx
+15-Mar-22 17:25:59 - Dataframe columns BEFORE renaming: Index(['Vessel', 'Cruise ID', 'From', 'To', 'Nights', 'Itinerary Code',
+       'Itinerary Description', 'Season', 'Area Code', 'Area Description',
+       'Region Cod
+15-Mar-22 17:25:59 - Column headers renamed into: Index(['Ship', 'Cruise', 'From', 'To', 'Nts', 'Itin', 'Destination', 'Season',
+       'Area', 'Area_Desc', 'Region', 'Region_Desc', 'SubRegion',
+       'SubRegion_Desc', '
+15-Mar-22 17:25:59 - Deleted table: Fleet, from database: CROCIERE
+15-Mar-22 17:25:59 - Succesfully loaded dataframe from Excel into SQL table: Fleet
+15-Mar-22 17:25:59 - Succesfully moved MasterCruiseCalendar.xlsx FROM \\10.63.244.160\sambasrv\cruises TO: C:\Users\Administrator.MSCITA\OneDrive - Mediterranean Shipping Company\Documentazione DEV\CROCIERE\Storico
+
